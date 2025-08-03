@@ -32,6 +32,6 @@ git clone https://github.com/xamar-sharp/AspWithWCF.git
 		Console.WriteLine(client.GetState(true));
 	```
 Выше представлена минималистичная реализация клиента веб-службы,
-реаизацию которой вы можете найти в папке WcfClient.
+реализацию которой вы можете найти в папке WcfClient.
 ## Лицензия 
 MIT

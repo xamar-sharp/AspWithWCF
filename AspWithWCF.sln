@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35617.110 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspWithWCF", "AspWithWCF\AspWithWCF.csproj", "{4D312E6D-F0C8-4755-A69B-0A0EA21BD766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfClient", "WcfClient\WcfClient.csproj", "{96DE0333-CC85-4020-AA10-3B4A76D6CBFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D312E6D-F0C8-4755-A69B-0A0EA21BD766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D312E6D-F0C8-4755-A69B-0A0EA21BD766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D312E6D-F0C8-4755-A69B-0A0EA21BD766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D312E6D-F0C8-4755-A69B-0A0EA21BD766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96DE0333-CC85-4020-AA10-3B4A76D6CBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DE0333-CC85-4020-AA10-3B4A76D6CBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DE0333-CC85-4020-AA10-3B4A76D6CBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DE0333-CC85-4020-AA10-3B4A76D6CBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B9FE50F-A8C4-44F7-9DF9-4A03E148D041}
+	EndGlobalSection
+EndGlobal

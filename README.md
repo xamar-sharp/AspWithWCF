@@ -15,6 +15,12 @@ https://images.unsplash.com/photo-1587691592099-24045742c181?q=80&w=1173&auto=fo
 [На metanit перейти текст ссылки](https://metanit.com/ "Заголовок ссылки")
 
 https://metanit.com/
+
+```c#
+Console.WriteLine("Hello world!");
+Console.WriteLine("Hello world2!");
+```
+
 Ниже начинается многострочный блок кода
 
     <!doctype html>

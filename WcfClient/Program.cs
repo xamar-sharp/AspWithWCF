@@ -1,7 +1,4 @@
-﻿using CoreWCF;
-using CoreWCF.Channels;
-using CoreWCF.Description;
-using System.ServiceModel;
+﻿using System.ServiceModel;
 namespace WcfClient
 {
     internal class Program

@@ -1,4 +1,5 @@
 # AspWithWCF
+***
 ## Simple ASP.NET Core with WCF project
 ### As Example
 This is *cursive text* and this is **bold text**.
@@ -25,7 +26,7 @@ https://metanit.com/
             <!-- Тело документа -->
         </body>
     </html>
-
+***
 Блок кода завершился
 -	Первый элемент списка
 -	Второй элемент списка
@@ -35,6 +36,6 @@ https://metanit.com/
 2.	Второй пункт
 3.	Третий пункт
 	*	Вложенный подпункт 1
-	*	Вложенный подпункт 2
+	+	Вложенный подпункт 2
 		1. Подподпункт 1
 		2. Подподпункт 2
